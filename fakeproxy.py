@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# SPDX-License-Identifier: 0BSD
+# SPDX-FileCopyrightText: © 2024 Tobias Gruetzmacher
 
 import sys
 
